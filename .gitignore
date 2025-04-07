@@ -1,0 +1,30 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode and other IDE settings
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
+
+# Colab uploads
+*.ipynb_upload*
+
+# Ignore all data files *except* explicitly tracked ones
+data/*
+!data/sample_food_data.csv
+!data/README.md
+
