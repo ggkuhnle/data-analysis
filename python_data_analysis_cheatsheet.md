@@ -38,7 +38,7 @@ df.shape                    # Rows and columns
 
 df['col']                   # Access column
 df[['col1', 'col2']]        # Multiple columns
-df.loc[0]                   # First row by label
+df.loc['label']             # First row by label
 df.iloc[0]                  # First row by position
 
 df['col'].unique()          # Unique values
