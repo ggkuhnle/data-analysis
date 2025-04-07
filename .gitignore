@@ -23,8 +23,4 @@ ENV/
 # Colab uploads
 *.ipynb_upload*
 
-# Ignore all data files *except* explicitly tracked ones
-data/*
-!data/sample_food_data.csv
-!data/README.md
 
