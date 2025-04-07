@@ -1,7 +1,7 @@
 
-# 🧪 Python Data Analysis for Nutrition and Food Science
+# 🧪 Python Data Analysis for Nutrition and Food Science students
 
-This repository contains teaching materials for a short Python-based data analysis bootcamp, aimed at final-year students in Nutrition and Food Science. All notebooks are compatible with **Google Colab**, so no installation is required.
+This repository contains teaching materials for a short Python-based data analysis course for students in Nutrition and Food Science. All notebooks are compatible with **Google Colab**, so no installation is required.
 
 ## 📚 Contents
 
@@ -13,10 +13,8 @@ This repository contains teaching materials for a short Python-based data analys
 
 Click on any notebook below to open it directly in Google Colab:
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis/blob/main/notebooks/01_intro_to_python.ipynb) **Intro to Python**
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis/blob/main/notebooks/02_food_data_analysis.ipynb) **Food Composition Data Analysis**
-
-> Replace `your-username` in the links above with your actual GitHub username after uploading the notebooks.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/01_intro_to_python.ipynb) **Intro to Python**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/02_food_data_analysis.ipynb) **Food Composition Data Analysis**
 
 ## 🧰 Requirements (for local use)
 
@@ -49,5 +47,3 @@ data-analysis/
 
 This material is made available for teaching and academic use. You are welcome to adapt and share it with attribution.
 
----
-University of Reading | School of Food and Nutritional Sciences
