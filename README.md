@@ -13,7 +13,7 @@ This repository contains teaching materials for a short Python-based data analys
 
 Click on any notebook below to open it directly in Google Colab:
 
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/01_intro_to_python.ipynb) **Intro to Python**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/01_gentle_intro_to_python.ipynb) **Intro to Python**
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/02_food_data_analysis.ipynb) **Food Composition Data Analysis**
 
 ## 🧰 Requirements (for local use)

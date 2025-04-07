@@ -1,0 +1,5 @@
+ Name ,species,Weight (kg),height_cm,habitat
+Hugo ,hippo,1500,150,River
+  Fiona,Hippo,"1,400",one-fifty, river 
+George,hippos,NaN,160,Lake
+ Hugo,hippo,1500 ,150,
