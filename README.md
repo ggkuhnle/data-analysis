@@ -1,15 +1,53 @@
-# Data Analysis with Python (Nutrition/PHN)
 
-This repository contains materials for a short Python-based bootcamp on data analysis for final-year students in Nutrition and Food Science.
+# 🧪 Python Data Analysis for Nutrition and Food Science
 
-## Structure
-- `notebooks/` – Colab-ready Python notebooks
-- `data/` – Sample datasets (FFQ, NDNS, etc.)
-- `exercises/` – Student exercises
+This repository contains teaching materials for a short Python-based data analysis bootcamp, aimed at final-year students in Nutrition and Food Science. All notebooks are compatible with **Google Colab**, so no installation is required.
 
-## Getting Started
-You can run these notebooks locally using Jupyter or in Google Colab.
+## 📚 Contents
 
-To open in Colab (from GitHub mirror), use:
-`https://colab.research.google.com/github/<user>/<repo>/blob/main/notebooks/01_intro_to_python.ipynb`
+- `notebooks/01_intro_to_python.ipynb`: Introduction to Python and Colab
+- `notebooks/02_food_data_analysis.ipynb`: Analysing food composition data with `pandas`
+- `data/sample_food_data.csv`: Small dataset used in the analysis notebook
 
+## 🚀 Run Notebooks in Google Colab
+
+Click on any notebook below to open it directly in Google Colab:
+
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis/blob/main/notebooks/01_intro_to_python.ipynb) **Intro to Python**
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/data-analysis/blob/main/notebooks/02_food_data_analysis.ipynb) **Food Composition Data Analysis**
+
+> Replace `your-username` in the links above with your actual GitHub username after uploading the notebooks.
+
+## 🧰 Requirements (for local use)
+
+If you want to run these notebooks locally using Jupyter:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Main Python Libraries Used:
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
+
+## 📂 Directory Structure
+
+```
+data-analysis/
+├── notebooks/
+│   ├── 01_intro_to_python.ipynb
+│   └── 02_food_data_analysis.ipynb
+├── data/
+│   └── sample_food_data.csv
+├── requirements.txt
+└── README.md
+```
+
+## 📝 License
+
+This material is made available for teaching and academic use. You are welcome to adapt and share it with attribution.
+
+---
+University of Reading | School of Food and Nutritional Sciences
