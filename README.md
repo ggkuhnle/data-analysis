@@ -25,6 +25,7 @@ All notebooks are compatible with **Google Colab**, so no installation is requir
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/04_plotting_hippos.ipynb) 04 – Plotting Hippo Data  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_with_visuals.ipynb) 05 – Statistical Testing with Hippos  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/06_stats_extensions_ndns.ipynb) 06 – Stats Extensions with NDNS  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/08_rct_analysis.ipynb) 08 – RCT Analysis with Baseline and Follow-up  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/10_mini_project.ipynb) 10 – Mini-Project  
 
 ---
@@ -54,7 +55,8 @@ data-analysis/
 ├── data/
 │   ├── hippos_cleaned.csv
 │   ├── messy_hippos.csv
-│   └── ndns_simulated.csv
+│   ├── ndns_simulated.csv
+│   └── rct_realistic_with_baseline.csv
 ├── notebooks/
 │   ├── 00_uploading_data_to_colab.ipynb
 │   ├── 00_output_and_types.ipynb
@@ -66,6 +68,7 @@ data-analysis/
 │   ├── 04_plotting_hippos.ipynb
 │   ├── 05_stats_testing_with_visuals.ipynb
 │   ├── 06_stats_extensions_ndns.ipynb
+│   ├── 08_rct_analysis.ipynb
 │   └── 10_mini_project.ipynb
 ├── requirements.txt
 ├── README.md
