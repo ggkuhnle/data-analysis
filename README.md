@@ -22,8 +22,9 @@ Click on any notebook below to open it directly in Google Colab (opens in a new 
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/02_cleaning_messy_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 02 – Cleaning Messy Hippo Data</a>
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/03_grouping_and_table1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 03 – Grouping and Table 1</a>
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/04_plotting_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 04 – Plotting Hippo Data</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 05 – Statistical Testing with Hippos</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/06_mini_project.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 06 – Mini-Project</a>
+- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_with_visuals.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 05 – Statistical Testing with Hippos (Visuals)</a>
+- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/07_stats_extensions_ndns.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 07 – Stats Extensions with NDNS</a>
+- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/10_mini_project.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 10 – Mini-Project</a>
 
 ---
 
@@ -49,24 +50,25 @@ pip install -r requirements.txt
 
 ```
 data-analysis/
+├── data/
+│   ├── hippos_cleaned.csv
+│   ├── messy_hippos.csv
+│   └── ndns_simulated.csv
 ├── notebooks/
+│   ├── 00_output_and_types.ipynb
 │   ├── 00_python_packages_intro.ipynb
 │   ├── 00_understanding_dot_syntax.ipynb
-│   ├── 00_output_and_types.ipynb
 │   ├── 01_gentle_intro_to_python.ipynb
 │   ├── 02_cleaning_messy_hippos.ipynb
 │   ├── 03_grouping_and_table1.ipynb
 │   ├── 04_plotting_hippos.ipynb
-│   ├── 05_stats_testing_hippos.ipynb
-│   └── 06_mini_project.ipynb
-├── data/
-│   ├── messy_hippos.csv
-│   └── hippos_cleaned.csv
+│   ├── 05_stats_testing_with_visuals.ipynb
+│   ├── 07_stats_extensions_ndns.ipynb
+│   └── 10_mini_project.ipynb
 ├── requirements.txt
-├── syllabus.md
+├── README.md
 ├── python_data_analysis_cheatsheet.md
-├── data_output_and_types.md
-└── README.md
+└── data_output_and_types.md
 ```
 
 ---
