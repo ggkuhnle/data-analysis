@@ -15,7 +15,7 @@ All notebooks are compatible with **Google Colab**, so no installation is requir
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_python_packages_intro.ipynb) Python Packages Overview  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_understanding_dot_syntax.ipynb) Understanding Python’s Dot Syntax  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_output_and_types.ipynb) Output and Data Types  
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-     ↪analysis/blob/main/notebooks/00_uploading_data_to_colab.ipynb) Upload and use your own data
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-     analysis/blob/main/notebooks/00_uploading_data_to_colab.ipynb) Upload and use your own data
 
 ### 🐾 Course
 
