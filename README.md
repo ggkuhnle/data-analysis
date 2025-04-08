@@ -1,4 +1,4 @@
-Blubber
+
 # 🧪 Python Data Analysis for Nutrition and Food Science Students
 
 This repository contains teaching materials for a short Python-based data analysis course designed for students in Nutrition and Food Science.  
@@ -8,23 +8,23 @@ All notebooks are compatible with **Google Colab**, so no installation is requir
 
 ## 🚀 Run Notebooks in Google Colab
 
-Click on any notebook below to open it directly in Google Colab (opens in a new tab):
+> ℹ️ Tip: **Right-click** or **Ctrl+Click** a link below to open it in a new tab.
 
 ### 🗃️ General Information
 
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_python_packages_intro.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> Python Packages Overview</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_understanding_dot_syntax.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> Understanding Python’s Dot Syntax</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_output_and_types.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> Output and Data Types</a>
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_python_packages_intro.ipynb) Python Packages Overview  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_understanding_dot_syntax.ipynb) Understanding Python’s Dot Syntax  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_output_and_types.ipynb) Output and Data Types  
 
 ### 🐾 Course
 
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/01_gentle_intro_to_python.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 01 – Intro to Python</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/02_cleaning_messy_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 02 – Cleaning Messy Hippo Data</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/03_grouping_and_table1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 03 – Grouping and Table 1</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/04_plotting_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 04 – Plotting Hippo Data</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_with_visuals.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 05 – Statistical Testing with Hippos (Visuals)</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/06_stats_extensions_ndns.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 06 – Stats Extensions with NDNS</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/10_mini_project.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 10 – Mini-Project</a>
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/01_gentle_intro_to_python.ipynb) 01 – Intro to Python  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/02_cleaning_messy_hippos.ipynb) 02 – Cleaning Messy Hippo Data  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/03_grouping_and_table1.ipynb) 03 – Grouping and Table 1  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/04_plotting_hippos.ipynb) 04 – Plotting Hippo Data  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_with_visuals.ipynb) 05 – Statistical Testing with Hippos  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/06_stats_extensions_ndns.ipynb) 06 – Stats Extensions with NDNS  
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/10_mini_project.ipynb) 10 – Mini-Project  
 
 ---
 
