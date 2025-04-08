@@ -63,7 +63,7 @@ data-analysis/
 │   ├── 03_grouping_and_table1.ipynb
 │   ├── 04_plotting_hippos.ipynb
 │   ├── 05_stats_testing_with_visuals.ipynb
-│   ├── 07_stats_extensions_ndns.ipynb
+│   ├── 06_stats_extensions_ndns.ipynb
 │   └── 10_mini_project.ipynb
 ├── requirements.txt
 ├── README.md
