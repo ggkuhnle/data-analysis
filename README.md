@@ -23,7 +23,7 @@ Click on any notebook below to open it directly in Google Colab (opens in a new 
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/03_grouping_and_table1.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 03 – Grouping and Table 1</a>
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/04_plotting_hippos.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 04 – Plotting Hippo Data</a>
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/05_stats_testing_with_visuals.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 05 – Statistical Testing with Hippos (Visuals)</a>
-- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/07_stats_extensions_ndns.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 07 – Stats Extensions with NDNS</a>
+- <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/06_stats_extensions_ndns.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 06 – Stats Extensions with NDNS</a>
 - <a href="https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/10_mini_project.ipynb" target="_blank"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> 10 – Mini-Project</a>
 
 ---
