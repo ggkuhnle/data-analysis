@@ -12,10 +12,10 @@ All notebooks are compatible with **Google Colab**, so no installation is requir
 
 ### 🗃️ General Information
 
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_uploading_data_to_colab.ipynb) Uploading Data to Colab  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_python_packages_intro.ipynb) Python Packages Overview  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_understanding_dot_syntax.ipynb) Understanding Python’s Dot Syntax  
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-analysis/blob/main/notebooks/00_output_and_types.ipynb) Output and Data Types  
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ggkuhnle/data-     analysis/blob/main/notebooks/00_uploading_data_to_colab.ipynb) Upload and use your own data
 
 ### 🐾 Course
 
@@ -56,10 +56,10 @@ data-analysis/
 │   ├── messy_hippos.csv
 │   └── ndns_simulated.csv
 ├── notebooks/
+│   ├── 00_uploading_data_to_colab.ipynb
 │   ├── 00_output_and_types.ipynb
 │   ├── 00_python_packages_intro.ipynb
 │   ├── 00_understanding_dot_syntax.ipynb
-|   ├── 00_uploading_data_to_colab.ipynb
 │   ├── 01_gentle_intro_to_python.ipynb
 │   ├── 02_cleaning_messy_hippos.ipynb
 │   ├── 03_grouping_and_table1.ipynb
